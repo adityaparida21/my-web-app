@@ -1,0 +1,22 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adityaparida21/my-web-app"
+  },
+  "license": "MIT"
+}
+
